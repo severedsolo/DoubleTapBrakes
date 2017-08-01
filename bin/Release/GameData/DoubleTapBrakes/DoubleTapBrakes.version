@@ -1,0 +1,35 @@
+{
+    "NAME"     : "PAWS",
+    "URL"      : "https://github.com/severedsolo/PAWS/blob/master/bin/Release/GameData/PAWS/PAWS.version",
+    "DOWNLOAD" : "https://github.com/severedsolo/PAWS/releases",
+    "GITHUB" :
+    {
+        "USERNAME" : "severedsolo",
+        "REPOSITORY" : "PAWS"
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 1,
+        "PATCH" : 0,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 3,
+        "PATCH" : 0
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 3,
+        "PATCH" : 0
+    },
+    "KSP_VERSION_MAX" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 3,
+        "PATCH" : 0
+    }
+}
