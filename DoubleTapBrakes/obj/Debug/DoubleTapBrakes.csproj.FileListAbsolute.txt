@@ -1,0 +1,16 @@
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\DoubleTapBrakes.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\DoubleTapBrakes.pdb
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\Assembly-CSharp.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\UnityEngine.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\UnityEngine.UI.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\KSPTrackIR.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\KSPAssets.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\Mono.Cecil.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\Ionic.Zip.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\bin\Debug\TDx.TDxInput.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\obj\Debug\DoubleTapBrakes.csprojAssemblyReference.cache
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\obj\Debug\DoubleTapBrakes.csproj.CoreCompileInputs.cache
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\obj\Debug\DoubleTapBrakes.csproj.CopyComplete
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\obj\Debug\DoubleTapBrakes.dll
+C:\Users\evilp\source\repos\DoubleTapBrakes\DoubleTapBrakes\obj\Debug\DoubleTapBrakes.pdb
