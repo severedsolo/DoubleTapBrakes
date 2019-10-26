@@ -1,0 +1,5 @@
+/home/martin/OneDrive/Documents/GitHub/DoubleTapBrakes/DoubleTapBrakes/bin/Release/DoubleTapBrakes.dll
+/home/martin/OneDrive/Documents/GitHub/DoubleTapBrakes/DoubleTapBrakes/bin/Release/DoubleTapBrakes.pdb
+/home/martin/OneDrive/Documents/GitHub/DoubleTapBrakes/DoubleTapBrakes/obj/Release/DoubleTapBrakes.csprojAssemblyReference.cache
+/home/martin/OneDrive/Documents/GitHub/DoubleTapBrakes/DoubleTapBrakes/obj/Release/DoubleTapBrakes.dll
+/home/martin/OneDrive/Documents/GitHub/DoubleTapBrakes/DoubleTapBrakes/obj/Release/DoubleTapBrakes.pdb

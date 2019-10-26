@@ -9,16 +9,16 @@ namespace DoubleTapBrakes
     [KSPAddon(KSPAddon.Startup.Flight, false)]
     public class DoubleTapBrakes : MonoBehaviour
     {
-        KeyBinding brakeKey;
+        private KeyBinding _brakeKey;
 
         private void Start()
         {
-            brakeKey = GameSettings.BRAKES;
+            _brakeKey = GameSettings.BRAKES;
         }
 
         private void Update()
         {
-            if (brakeKey.GetDoubleTapUp(false)) FlightGlobals.ActiveVessel.ActionGroups.SetGroup(KSPActionGroup.Brakes, true);
+            if (_brakeKey.GetDoubleTapUp(false)) FlightGlobals.ActiveVessel.ActionGroups.SetGroup(KSPActionGroup.Brakes, true);
         }
     }
 }
